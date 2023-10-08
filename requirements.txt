@@ -1,3 +1,6 @@
 langchain
 streamlit
 scipy
+tiktoken
+python-dotenv
+faiss-cpu
